@@ -6,7 +6,7 @@ public class MoveLeft : MonoBehaviour
 {
     private float speed = 18;
     private PlayerController playerControllerScript;
-    private float leftBound = -30;
+    private float leftBound = -15;
 
     void Start()
     {
